@@ -4,7 +4,7 @@ Donate link: http://thecorkboard.org/
 Tags: custom post types, custom taxonomies, custom columns, custom metaboxes, library, libraries
 Requires at least: 3.2
 Tested up to: 3.2
-Stable tag: 1.0
+Stable tag: 1.1
 
 This plugin packs contains several different custom post types for use in WordPress powered library websites.
 
@@ -61,3 +61,6 @@ Well - I'm up for suggestions.  Use the support forum for this plugin pack to re
 
 = 1.0 =
 * First release
+
+= 1.1 =
+* Changed staff directory member's photo to a text box for image URL entry - hope to build in a straight-to-media library functionality at a later time

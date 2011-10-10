@@ -253,8 +253,8 @@ function directory_photo(){
 	$custom = get_post_custom($post->ID);
 	$directory_photo = $custom["directory_photo"][0];
 	?>
-	<label for="upload">Upload the staff member's photo: </label>
-	<input type="submit" value="Upload" name="upload" class="button"/>
+	<input type="text" name="directory_photo" id="directory_photo" class="text" value="<?php echo $directory_photo; ?>" />
+	<p>Using the media library, upload the staff member's photo and then copy and paste the url to the photo here.</p>
 <?php
 }
 
