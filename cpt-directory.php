@@ -301,7 +301,7 @@ add_action("admin_head", "staff_directory_css");
 	?>
 		<style type="text/css">
 			#icon-edit.icon32-posts-staff_directory{
-				background: transparent url(<?php echo plugins_url()?>/library-cpt/icons/staff_directory_32.png) no-repeat;
+				background: transparent url(<?php echo plugins_url()?>/library-custom-post-types/icons/staff_directory_32.png) no-repeat;
 			}
 			/*Metabox CSS*/
 			.text{

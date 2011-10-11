@@ -323,7 +323,7 @@ add_action("admin_head", "databases_css");
 	?>
 		<style type="text/css">
 			#icon-edit.icon32-posts-databases{  /*Add the large icon to the main page area*/
-				background: transparent url(<?php echo plugins_url()?>/library-cpt/icons/databases_32.png) no-repeat;
+				background: transparent url(<?php echo plugins_url()?>/library-custom-post-types/icons/databases_32.png) no-repeat;
 			}
 			/*Metabox CSS*/
 			.text{

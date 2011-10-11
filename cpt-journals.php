@@ -284,7 +284,7 @@ add_action("admin_head", "journals_css");
 	?>
 		<style type="text/css">
 			#icon-edit.icon32-posts-journals{
-				background: transparent url(<?php echo plugins_url()?>/library-cpt/icons/journals_32.png) no-repeat;
+				background: transparent url(<?php echo plugins_url()?>/library-custom-post-types/icons/journals_32.png) no-repeat;
 			/*Metabox CSS*/
 			.text{
 				margin: 0;
