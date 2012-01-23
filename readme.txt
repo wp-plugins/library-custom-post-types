@@ -4,7 +4,7 @@ Donate link: http://thecorkboard.org/
 Tags: custom post types, custom taxonomies, custom columns, custom metaboxes, library, libraries
 Requires at least: 3.2
 Tested up to: 3.2
-Stable tag: 1.2
+Stable tag: 1.3
 
 This plugin packs contains several different custom post types for use in WordPress powered library websites.
 
@@ -58,6 +58,11 @@ Well - I'm up for suggestions.  Use the support forum for this plugin pack to re
 7. The listing of all journals entered.
 
 == Changelog ==
+
+= 1.3 =
+* Added has_archive to custom post types and adjusted rewrite to ignore "blogs" front on multisite installs
+* Removed support for custom fields and author choice in all post types
+* Minor changes (code cleanup, index fixes, etc.)
 
 = 1.2 =
 * Fixed an icon image path issue
