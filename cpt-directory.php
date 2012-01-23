@@ -4,7 +4,7 @@ Plugin Name: Library Custom Post Types - Directory
 Plugin URI: http://thecorkboard.org/
 Description: A content type for a staff directory.
 Author: Kyle Jones
-Version: 1.2
+Version: 1.3
 Author URI: http://thecorkboard.org
 */
 
