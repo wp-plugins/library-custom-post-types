@@ -4,7 +4,7 @@ Plugin Name: Library Custom Post Types - Journals
 Plugin URI: http://thecorkboard.org/
 Description: A content type for listing journals.
 Author: Kyle Jones
-Version: 1.2
+Version: 1.3
 Author URI: http://thecorkboard.org
 */
 
