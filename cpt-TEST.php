@@ -1,14 +1,5 @@
 <?php
 /*
-Plugin Name: Library Custom Post Types - (TEST) Course Guides (TEST)
-Plugin URI: http://thecorkboard.org/
-Description: A content type for course guides.
-Author: Kyle Jones
-Version: 1.2
-Author URI: http://thecorkboard.org
-*/
-
-/*
 		
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
